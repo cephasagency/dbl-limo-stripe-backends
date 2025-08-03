@@ -1,0 +1,12 @@
+{
+  "name": "dbl-limo-stripe-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^12.0.0"
+  }
+}
